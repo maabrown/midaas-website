@@ -1,0 +1,10 @@
+.pages-home {
+
+  .row {
+    @include clearfix;
+  }
+
+  .usa-hero {
+    text-align: center;
+  }
+}
